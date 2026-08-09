@@ -63,8 +63,8 @@ A comprehensive healthcare platform that bridges the gap between patients and me
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd humanity_founder_project
+   git clone https://github.com/KANISHKA-12/healthcare-research-and-collaboration-platform.git
+   cd healthcare-research-and-collaboration-platform
    ```
 
 2. **Backend Setup**
@@ -178,3 +178,11 @@ npm run preview
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+## 👤 Author
+
+**KANISHKA-12** - [@KANISHKA-12](https://github.com/KANISHKA-12)
+
+## 📄 License
+
+This project is open source and available for collaboration and research purposes.
